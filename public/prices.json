@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 25.99,
+    "features": ["Access to gym equipment", "Locker rental"]
+  },
+  {
+    "id": 2,
+    "name": "Silver",
+    "price": 45.99,
+    "features": ["Access to gym equipment", "Locker rental", "Group classes"]
+  },
+  {
+    "id": 3,
+    "name": "Gold",
+    "price": 65.99,
+    "features": [
+      "Access to gym equipment",
+      "Locker rental",
+      "Personal training"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Family",
+    "price": 89.99,
+    "features": [
+      "Access to gym equipment",
+      "Locker rental",
+      "Family membership"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Student",
+    "price": 19.99,
+    "features": [
+      "Access to gym equipment",
+      "Locker rental",
+      "Valid student ID required"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Premium",
+    "price": 99.99,
+    "features": [
+      "Access to gym equipment",
+      "Locker rental",
+      "Group classes",
+      "Personal training",
+      "Towel service"
+    ]
+  }
+]
